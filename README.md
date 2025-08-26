@@ -63,8 +63,9 @@ RAZORPAY_SECRET=your-razorpay-secret
 ## 🔄 Migration to Microservices
 
 This legacy application has been migrated to a microservices architecture. The new implementation can be found in:
-- `../frontend-microservice/` - Modern React frontend with TypeScript
-- `../microservices/` - Backend microservices
+(StudyNotion-Microservice-Architecture)[https://github.com/Sann-777/CI-CD-Major-Project-2]
+- Modern React frontend with TypeScript
+- Backend microservices
 
 ## 📝 Notes
 
